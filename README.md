@@ -1,4 +1,4 @@
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jQbwFb-HLqWTv7pHwN9mDyGylIdVTp4w?usp=sharing)
 # Machine Learning for Adaptation Gene Prediction
 
 This project uses machine learning to predict whether a gene from the bacterium *Deinococcus radiodurans* contributes to stress tolerance based on features derived purely from its DNA sequence. The goal is to create a computational tool that can rapidly screen genomes for candidate stress-response genes, potentially aiding in bioengineering and synthetic biology.
